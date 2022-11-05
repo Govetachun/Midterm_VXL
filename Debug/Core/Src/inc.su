@@ -1,0 +1,3 @@
+inc.c:20:5:isIncPress	4	static
+inc.c:27:6:subIncProcess	4	static
+inc.c:30:6:getIncInput	8	static

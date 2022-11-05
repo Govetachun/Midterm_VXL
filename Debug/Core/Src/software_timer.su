@@ -2,8 +2,8 @@ software_timer.c:19:6:clearTimer	4	static
 software_timer.c:23:6:setTimer1	16	static
 software_timer.c:27:6:setTimer2	16	static
 software_timer.c:37:6:display	8	static
-software_timer.c:44:6:ledred	8	static
-software_timer.c:53:6:timerRun	4	static
-software_timer.c:63:6:addTimer2	16	static
-software_timer.c:69:6:minusTimer2	16	static
-software_timer.c:75:6:timerRun2	4	static
+software_timer.c:52:6:ledred	8	static
+software_timer.c:61:6:timerRun	4	static
+software_timer.c:71:6:addTimer2	16	static
+software_timer.c:77:6:minusTimer2	16	static
+software_timer.c:83:6:timerRun2	4	static

@@ -35,11 +35,19 @@ void setTimer2(int duration){
 //	return 0;
 //}
 void display(){
-	if(timer1_counter % 50 == 0){
+	if(timer1_counter % 10 == 0){
 		display7SEG1(timer2_counter/100);
 	}
-
+//	if(isDcPress() ==1 ){
+//		display7SEG1(timer2_counter/100);
+//	}
+//
+//	if(isIncPress() ==1 ){
+//		display7SEG1(timer2_counter/100);
+//	}
 }
+
+
 int led_red = 50;
 void ledred(){
 	if(led_red == 0){
